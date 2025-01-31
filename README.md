@@ -92,6 +92,7 @@ Labels: Identifies corresponding KPI labels (e.g., EBITDA Label, Gross Operating
 Measure Type: Specifies the type of metric being recorded.
 Indicator - Display Value: Provides user-friendly display names for indicators.
 Measure Value: Holds the numerical value for each KPI.
+<img width="1140" alt="Screenshot 2025-01-31 at 7 57 07 PM" src="https://github.com/user-attachments/assets/9176eede-8883-4b32-aac6-2e54ad8b365e" />
 
 How the Dashboard Brings These Metrics Together
 1. Data Aggregation
